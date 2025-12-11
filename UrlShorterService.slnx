@@ -1,5 +1,5 @@
 <Solution>
   <Project Path="BuisnessLayer/BuisnessLayer.csproj" Id="bd2eb609-c1f7-46ab-a6f9-0904473c8cfc" />
   <Project Path="DataAccessLayer/DataAccessLayer.csproj" Id="42f644d8-8822-412c-8cfb-7b05527cc4dd" />
-  <Project Path="UrlShorterService/API.csproj" />
+  <Project Path="API/API.csproj" />
 </Solution>
